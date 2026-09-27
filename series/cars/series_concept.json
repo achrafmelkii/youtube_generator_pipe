@@ -1,0 +1,26 @@
+{
+  "series_name": "Car Companies",
+  "series_description": "A comprehensive dive into the history, evolution, and cultural impact of the world's most iconic automobile manufacturers. Each episode explores one company's journey from founding through modern era.",
+  "episodes": [
+    {
+      "topic": "Toyota",
+      "title_idea": "Every Toyota Era Explained in 12 Minutes"
+    },
+    {
+      "topic": "Ford",
+      "title_idea": "How Ford Changed Cars Forever (Every Era Explained)"
+    },
+    {
+      "topic": "BMW",
+      "title_idea": "The Evolution of BMW: From Aircraft Engines to Ultimate Driving Machines"
+    },
+    {
+      "topic": "Ferrari",
+      "title_idea": "Ferrari Through The Ages: From Italian Dream to Global Icon"
+    },
+    {
+      "topic": "Volkswagen",
+      "title_idea": "Volkswagen's Journey: The People's Car Explained"
+    }
+  ]
+}

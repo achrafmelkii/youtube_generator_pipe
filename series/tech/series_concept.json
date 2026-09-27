@@ -1,0 +1,26 @@
+{
+  "series_name": "Tech Companies",
+  "series_description": "The rise and evolution of the world's most innovative technology companies. From garage startups to trillion-dollar enterprises.",
+  "episodes": [
+    {
+      "topic": "Apple",
+      "title_idea": "Apple's Journey: From Garage Startup to Tech Giant"
+    },
+    {
+      "topic": "Microsoft",
+      "title_idea": "Microsoft's Evolution: From Software to Cloud Dominance"
+    },
+    {
+      "topic": "Google",
+      "title_idea": "Google's Story: How a Search Engine Became Everything"
+    },
+    {
+      "topic": "Amazon",
+      "title_idea": "Amazon's Transformation: From Online Bookstore to Everything"
+    },
+    {
+      "topic": "Tesla",
+      "title_idea": "Tesla's Revolution: Electric Cars, Energy, and Elon"
+    }
+  ]
+}

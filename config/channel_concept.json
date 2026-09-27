@@ -1,0 +1,18 @@
+{
+  "channel_name": "Iconic Entities Explained",
+  "theme": "Breaking down iconic real-world entities, industries, brands, and historical movements into structured animated documentary guides",
+  "tone": [
+    "informative",
+    "direct",
+    "entertaining",
+    "slightly satirical",
+    "fast-paced"
+  ],
+  "visual_style": {
+    "character_design": "Simple vector-art digital avatars in colored circular badge frames, expressive and minimal",
+    "scene_setup": "Each badge represents an era/model/milestone; avatar changes outfit, expression, and background color to match context. Timeline flows left-to-right or chronologically",
+    "color_palette": "Vibrant, distinct background color per era/circle badge, clear year/era label underneath. High contrast, accessible colors",
+    "render_style": "flat-vector"
+  },
+  "voice_style": "Energetic narrator with documentary pacing, short punchy sentences, occasional light humor, clear pronunciation"
+}

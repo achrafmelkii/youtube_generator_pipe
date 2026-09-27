@@ -1,0 +1,22 @@
+{
+  "series_name": "Historical Events",
+  "series_description": "Deep-dive explorations of pivotal moments that shaped human history, told through documentary animation.",
+  "episodes": [
+    {
+      "topic": "Moon Landing 1969",
+      "title_idea": "Apollo 11: The Greatest Achievement in Human History"
+    },
+    {
+      "topic": "Fall of Berlin Wall",
+      "title_idea": "The Berlin Wall: How a City Divided and Reunited"
+    },
+    {
+      "topic": "Industrial Revolution",
+      "title_idea": "The Industrial Revolution: How the World Changed Forever"
+    },
+    {
+      "topic": "Black Death",
+      "title_idea": "The Black Death: How Europe Changed"
+    }
+  ]
+}

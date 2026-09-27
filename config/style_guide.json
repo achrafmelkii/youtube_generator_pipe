@@ -1,0 +1,27 @@
+{
+  "locked_keywords": [
+    "flat-vector art style",
+    "minimalist design",
+    "bright vibrant colors",
+    "circular badge frames",
+    "digital illustration",
+    "clear bold typography",
+    "high contrast",
+    "timeline layout",
+    "era-based composition",
+    "accessible color palette"
+  ],
+  "color_hex_codes": {
+    "founding_era": "#FF6B6B",
+    "growth_era": "#4ECDC4",
+    "innovation_era": "#45B7D1",
+    "modern_era": "#96CEB4",
+    "future_era": "#FFEAA7",
+    "text_light": "#FFFFFF",
+    "text_dark": "#2D3436",
+    "background": "#F5F5F5"
+  },
+  "font_name": "Inter Bold, sans-serif",
+  "badge_aspect_ratio": "1:1",
+  "animation_style": "Ken Burns zoom/pan effect with 2-3% slow movement per 10-15 second clip, subtle fade transitions between eras"
+}

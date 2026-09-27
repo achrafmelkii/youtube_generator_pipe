@@ -1,0 +1,28 @@
+# Core dependencies
+anthropic>=0.20.0          # Claude API for LLM
+pydantic>=2.0              # Data validation and schemas
+
+# Image generation (optional - install one or more)
+openai>=1.0.0              # DALL-E 3
+# elevenlabs>=0.2.0        # ElevenLabs TTS (uncomment if using)
+# azure-cognitiveservices-speech>=1.0  # Azure TTS
+
+# TTS & Audio (optional - install one or more)
+pydub>=0.25.1              # Audio processing, duration detection
+# elevenlabs>=0.2.0        # ElevenLabs TTS
+# TTS>=0.20.0              # Coqui TTS (local/offline)
+
+# Video assembly
+# ffmpeg must be installed separately (system package)
+# On Windows: choco install ffmpeg
+# On macOS: brew install ffmpeg
+# On Linux: apt install ffmpeg
+
+# Development & testing
+pytest>=7.0
+pytest-asyncio>=0.21.0
+black>=23.0
+pylint>=2.17.0
+
+# Optional: for parallel processing
+# tqdm>=4.60.0             # Progress bars
